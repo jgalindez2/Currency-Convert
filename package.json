@@ -1,0 +1,15 @@
+{
+  "name": "currency-convert",
+  "version": "0.1.0",
+  "description": "Currency convert app to practice async/await",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Galindez <info@jgalindez.net>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^6.2.0"
+  }
+}
